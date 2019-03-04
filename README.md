@@ -1,2 +1,3 @@
 # Hello-world-
-My pat to be a developer
+Hello 
+This is my first step to become a developer 
